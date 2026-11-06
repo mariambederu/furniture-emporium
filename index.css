@@ -5,12 +5,14 @@ h1 {
     font-weight:900;
     margin: 20Px;
     text-decoration: underline rgb(255, 0, 183);
+    text-underline-offset: 10px;
+    width: 30%;
 }
 
 .h1-discription {
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
-    width: 50%;
+    width: 30%;
     margin: 20Px; 
 }
 

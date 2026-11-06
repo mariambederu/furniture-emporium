@@ -1,0 +1,63 @@
+
+
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    font-weight:900
+}
+.h1-discription {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    width: 50%;
+    
+}
+
+.card {
+    width: 30%;
+    height: 30%;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    background: lightgray;
+    Padding: 10px;
+    margin: 20Px;
+    border: 2px lightgray;
+    overflow: visible;
+
+}
+.card-title {
+    color:black;
+}
+
+.card-text {
+    color: black;
+}
+
+
+.discounted-price {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: large;
+    color:black;
+}
+
+.orginal-price {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: small;
+    color:black;
+}
+
+.card-button {
+    background: rgb(221, 181, 19);
+    border-color: rgb(221, 181, 19);
+    padding: 10px;
+    width: 100%;
+    color:aliceblue;
+    border-radius: 20px;
+    /* the below removes black bottom shadow outline from the button ^_^ :-)*/
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    /* wanted to make octagon shape button but the ~Math~ lol */
+
+}
+
